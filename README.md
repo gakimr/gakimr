@@ -1,6 +1,9 @@
 # Olá! Eu sou a Gabriela Kimura 👋
+
 💻 Full Stack Developer em formação
+
 🎨 Interessada em desenvolvimento web, interfaces e design.
+
 📚 Atualmente estudando JavaScript, React, Python e SQL.
 
 ---
