@@ -22,9 +22,9 @@ Tenho interesse em desenvolvimento Full Stack, com foco atual no aprimoramento d
 
 HTML5 · CSS3 · JavaScript · React
 
-**Programação e dados**
+**Backend e dados**
 
-Python · SQL
+ Node.js · Python · SQL 
 
 **Ferramentas**
 
