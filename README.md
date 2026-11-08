@@ -1,60 +1,83 @@
-# Olá! Eu sou a Gabriela Kimura 👋
 
-💻 Full Stack Developer em formação
+<div align="center">
 
-🎨 Interessada em desenvolvimento web, interfaces e design.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:C4B5FD&height=180&section=header&text=Gabriela%20Kimura&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20de%20Software%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=17" width="100%" />
 
-📚 Atualmente estudando JavaScript, React, Python e SQL.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=Estudante+de+Sistemas+para+Internet;Desenvolvimento+Web+e+Mobile;Aprendendo%2C+construindo+e+evoluindo" />
 
----
-
-## 🚀 Sobre mim
-
-Sou estudante de Sistemas para Internet e estou construindo minha experiência em desenvolvimento web através de projetos acadêmicos e pessoais.
-
-Tenho interesse em desenvolvimento Full Stack, com foco atual no aprimoramento de Front-end, enquanto desenvolvo meus conhecimentos em backend, bancos de dados e APIs.
+</div>
 
 ---
 
-## 🛠️ Tecnologias
+## 💜 Sobre mim
 
-**Front-end**
-
-HTML5 · CSS3 · JavaScript · React
-
-**Backend e dados**
-
- Node.js · Python · SQL 
-
-**Ferramentas**
-
-Git · GitHub · Figma
+- 🎓 Estudante de **Sistemas para Internet** na Fatec Taquaritinga.
+- 💻 Desenvolvedora de software em formação.
+- 🌱 Aprimorando meus conhecimentos em JavaScript, React, Node.js, Python e SQL.
+- 🎨 Interessada em UI/UX Design e experiência do usuário.
+- 🚀 Gosto de transformar ideias em projetos práticos.
 
 ---
 
-## 📌 Projetos
+## 🛠️ Tecnologias e ferramentas
 
-### CidaLink
+<div align="center">
 
-Plataforma de participação cidadã desenvolvida em equipe como projeto acadêmico.
+### Front-end
 
-### CidaLink React
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-Evolução do projeto CidaLink utilizando React.
+### Back-end e dados
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,python,mysql&theme=dark" />
 
-## 🌱 Atualmente estudando
+### Ferramentas
 
-* React
-* JavaScript
-* Python
-* SQL
-* UI/UX e Design
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+</div>
 
 ---
 
-## 📫 Onde me encontrar
+## 📊 GitHub Stats
 
-[Linkedin](www.linkedin.com/in/gabriela-kimura-269225284)
-[GitHub](https://github.com/gakimr)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gakimr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakimr&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=gakimr&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gakimr&theme=discord&no-frame=true&no-bg=true&column=6" />
+
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gakimr/gakimr/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Obrigada pela visita!
+
+*Fique à vontade para explorar meus projetos.*
+
+</div>
+
