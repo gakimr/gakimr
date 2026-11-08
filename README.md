@@ -39,27 +39,29 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gakimr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gakimr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB&icon_color=A78BFA" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakimr&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=gakimr&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakimr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB" />
 
 </div>
 
+
 ---
+
 
 ## 🏆 Conquistas
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gakimr&theme=discord&no-frame=true&no-bg=true&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=gakimr&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
+
 
 ---
 
