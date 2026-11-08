@@ -40,27 +40,32 @@
 ---
 
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gakimr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB&icon_color=A78BFA" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=gakimr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB&icon_color=A78BFA" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakimr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gakimr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB" />
 
 </div>
+
 
 
 ---
 
 
-## 🏆 Conquistas
+
+## 🏆 Conquistas e evolução
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gakimr&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img src="https://img.shields.io/badge/Aprendizado-Cont%C3%ADnuo-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Projetos-Acad%C3%AAmicos-A78BFA?style=for-the-badge&logo=code&logoColor=white" />
 
 </div>
+
 
 
 ---
